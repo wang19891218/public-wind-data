@@ -1,0 +1,25 @@
+latitude,longitude,weatherstationtype,weatherstationurl,weatherstationairportid,state
+36.4717,-110.4179,AWOS II,http://weather.noaa.gov/,38AZ,AZ
+34.5903889,-92.4794444,AWOS II,https://aviationweather.gov/metar/data?ids=ksuz&format=raw&date=&hours=36,KSUZ,AR
+34.8082222,-91.7121111,AWOS II,http://weather.noaa.gov/,K4M3,AR
+35.0198889,-92.5551111,AWOS II,https://aviationweather.gov/metar/data?ids=KCXW&format=raw&date=0&hours=36,KCXW,AR
+33.2274722,-93.217,AWOS II,http://weather.noaa.gov/,KAGO,AR
+39.8185278,-120.3528056,AWOS II,http://weather.noaa.gov/,KO02,CA
+41.0173611,-121.4349722,AWOS II,http://weather.noaa.gov/,KO89,CA
+40.5736667,-122.4073333,AWOS II,http://weather.noaa.gov/,KO85,CA
+38.2774,-95.2152,AWOS II,http://weather.noaa.gov/,KK68,KS
+47.828333,-112.1683333,AWOS II,http://weather.noaa.gov/,KCII,MT
+45.7043769,-108.7595089,AWOS II,http://weather.noaa.gov/,K6S8,MT
+47.5671667,-114.1010833,AWOS II,http://weather.noaa.gov/,K7S0,MT
+46.4956309,-110.9118594,AWOS II,http://weather.noaa.gov/,K7S6,MT
+36.8331389,-114.0558889,AWOS II,http://weather.noaa.gov/,K67L,NV
+39.403,-119.2511666,AWOS II,http://weather.noaa.gov/,KSPZ,NV
+40.6100925,-83.6442593,AWOS II,http://weather.noaa.gov/,KI95,OH
+41.1513889,-81.4151111,AWOS II,http://weather.noaa.gov/,K1G3,OH
+40.3521278,-76.3296444,AWOS II,http://weather.noaa.gov/,K9D4,PA
+43.1656408,-101.7126953,AWOS II,http://weather.noaa.gov/,K9V6,SD
+44.7005,-100.1014167,AWOS II,http://weather.noaa.gov/,K98D,SD
+37.643902,-109.465823,AWOS II,https://www.aviationweather.gov/metar/data?ids=KBDG&format=raw&date=0&hours=36,KBDG,UT
+40.1450278,-111.6676944,AWOS II,http://weather.noaa.gov/,KSPK,UT
+47.7533889,-118.7439167,AWOS II,http://weather.noaa.gov/,K2S8,WA
+38.9298,-81.8195,AWOS II,http://weather.noaa.gov/,KI18,WV

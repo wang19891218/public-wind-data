@@ -1,0 +1,12 @@
+latitude,longitude,weatherstationtype,weatherstationurl,weatherstationairportid,state
+40.5690833,-90.0748333,AWOS A,http://weather.noaa.gov/,KCTK,IL
+38.8362222,-89.3788889,AWOS A,http://weather.noaa.gov/,KGRE,IL
+38.9914658,-89.1661894,AWOS A,http://weather.noaa.gov/,KVLA,IL
+45.463,-69.5516,AWOS A,http://weather.noaa.gov/,K3B1,ME
+43.6416347,-86.3290654,AWOS A,http://weather.noaa.gov/,KC04,MI
+47.845108,-110.63648,AWOS A,http://weather.noaa.gov/,K79S,MT
+48.2838333,-115.4902222,AWOS A,http://weather.noaa.gov/,KS59,MT
+39.1669722,-82.928333,AWOS A,http://weather.noaa.gov/,KEOP,OH
+35.0444208,-85.0200667,AWOS A,http://weather.noaa.gov/,KFGU,TN
+35.2006944,-90.0539722,AWOS A,http://weather.noaa.gov/,KM01,TN
+35.2784797,-89.9329968,AWOS A,http://weather.noaa.gov/,K2M8,TN

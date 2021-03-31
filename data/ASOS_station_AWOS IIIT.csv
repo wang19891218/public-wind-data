@@ -1,0 +1,5 @@
+latitude,longitude,weatherstationtype,weatherstationurl,weatherstationairportid,state
+29.3542,-82.4729,AWOS IIIT,https://www.aviationweather.gov/metar/data?ids=KX60&format=raw&date=0&hours=36,KX60,FL
+31.2129,-84.2368,AWOS IIIT,https://aviationweather.gov/metar/data?ids=KCXU&format=raw&hours=36&taf=off&layout=on&date=0,KCXU,GA
+36.1968,-81.6396,AWOS IIIT,http://weather.noaa.gov/,NC14,NC
+39.9901178,-75.5819069,AWOS IIIT,https://aviationweather.gov/metar/data?ids=KOQN&format=raw&date=&hours=36,KOQN,PA

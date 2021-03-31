@@ -1,0 +1,4 @@
+latitude,longitude,weatherstationtype,weatherstationurl,weatherstationairportid,state
+35.1513,-118.0167,AWOS I,http://weather.noaa.gov/,KL71,CA
+28.0385669,-97.542013,AWOS I,http://weather.noaa.gov/,KT69,TX
+46.2133714,-119.7955629,AWOS I,http://weather.noaa.gov/,KS40,WA
