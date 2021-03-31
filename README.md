@@ -5,9 +5,10 @@ public wind data download, parsing, and visualization
 
 # Get location of ASOS stations 
 
+![Screenshot](figure/screenshot_ASOS_AWOS_stations.png)
+
 ## Data Source
 https://www.faa.gov/air_traffic/weather/asos/
-
 
 ## Legend: weather station types
 <ul class="legend">
@@ -24,3 +25,8 @@ https://www.faa.gov/air_traffic/weather/asos/
 	<li>AWOS IV: <img src="https://www.faa.gov/images/applications/maps/mm_20_black.png" alt="AWOS IV"></li>
 	<li>Misc.: <img src="https://www.faa.gov/images/applications/maps/mm_20_white.png" alt="Misc."></li>
 </ul>
+
+## Visualization
+
+[link](https://www.google.com/maps/d/u/0/edit?mid=1IswrBrS0yaibsZCY8s79o5_EWEk-67Az&usp=sharing)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1IswrBrS0yaibsZCY8s79o5_EWEk-67Az" width="640" height="480"></iframe>
